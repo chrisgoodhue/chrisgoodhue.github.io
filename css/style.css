@@ -668,6 +668,9 @@ footer p {
 	.filters li {
 		width: 50%;
 	}
+	#drawer-toggle-label {
+	top: 10px;
+}
 
 }
 
