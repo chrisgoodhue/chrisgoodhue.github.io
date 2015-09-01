@@ -649,9 +649,9 @@ footer p {
 	}
 
 	.hero-gradient {
-	    background: rgba(0,0,0,.8);
-	    background: rgba(0,0,0,.8);
-	    background: rgba(0,0,0,.8);
+	    background: rgba(0,0,0,.5);
+	    background: rgba(0,0,0,.5);
+	    background: rgba(0,0,0,.5);
 	}
 	.weather {
 		margin-bottom: 20px;
