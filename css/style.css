@@ -650,6 +650,10 @@ footer p {
 	.hero {
 		opacity: .5;
 	}
+
+	.hero-gradient {
+		display: none;
+	}
 	.weather {
 		margin-bottom: 20px;
 	}
