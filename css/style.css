@@ -647,12 +647,11 @@ footer p {
 	.top-left .ctas {
 		display: none;
 	}
-	.hero {
-		opacity: .5;
-	}
 
 	.hero-gradient {
-		display: none;
+	    background: rgba(0,0,0,.8);
+	    background: rgba(0,0,0,.8);
+	    background: rgba(0,0,0,.8);
 	}
 	.weather {
 		margin-bottom: 20px;
