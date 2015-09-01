@@ -110,7 +110,7 @@ header {
 	width: 100%;
 	height: 75vh;
 	color: white;
-	background-color: #ccc;
+	background-color: #333;
 	position: relative;
 }
 
@@ -161,6 +161,7 @@ header::after {
 	background: url(../images/carroll-gardens-hero.jpg) center center no-repeat;
   	background-size: cover;
   	margin: 0 auto;
+  	background-color: #333;
 }
 
 .hero-content {
@@ -318,11 +319,6 @@ button:hover {
     background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.8));
     top: 0;
     left: 0;
-}
-
-.hero-image {
-	width: auto;
-	height: 100%;
 }
 
 .weather img {
@@ -651,9 +647,8 @@ footer p {
 	.top-left .ctas {
 		display: none;
 	}
-	.hero-image {
-		width: auto;
-		height: 100%;
+	.hero {
+		opacity: .5;
 	}
 	.weather {
 		margin-bottom: 20px;
